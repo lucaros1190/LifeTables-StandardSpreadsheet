@@ -29,5 +29,5 @@ _Rossini et al. (2024) - Under review, coming (hopefully!) soon_
 
 For your convenience, the folder "Examples" contains some examples of dataset acquired using the Excel file. We will be very pleased if you want to provide your dataset as an example, also to support us to spread the news and to involve always more scientists to standardise the data collection of life tables experiments!
 
-Please refer to the cited literature for any further explanation, and if you have any question/doubts/requests you can write to luca.rossini@ulb.be or luca.rossini@unitus.it.  
+Please refer to the cited literature for any further explanation, and if you have any questions/doubts/requests you can write to luca.rossini@ulb.be or luca.rossini@unitus.it.  
 
