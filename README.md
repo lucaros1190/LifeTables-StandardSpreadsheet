@@ -1,14 +1,15 @@
 # LifeTables-StandardSpreadsheet
 
-Last update: 12 January 2025
+Last update: 29 July 2025
 
-The purpose behind this work is to help the community of entomologists and all the insiders involved in rearing insects under different constant conditions in a laboratory environment. The lack of a standard in data collection and sharing led us to create this file, with the hope to endorse the open data practices in entomology.
+The purpose behind this work is to help the community of entomologists and all the insiders involved in rearing insects under different constant conditions in a laboratory environment. The lack of a standard in data collection and sharing led us to create this file, with the hope to support the open data practices in entomology.
 
 If you are using this file, please acknowledge us by citing:
 
-_Rossini L, Contarini M, Speranza S, Mermer S, Walton V, Francis F, et al. (2024) Life tables in entomology: A discussion on tables’ parameters and the importance of raw data. PLoS ONE 19(3): e0299598. https://doi.org/10.1371/journal.pone.0299598_
+_Rossini L, Contarini M, Speranza S, Mermer S, Walton V, Francis F, Garone E (2024). Life tables in entomology: A discussion on tables’ parameters and the importance of raw data. PLoS ONE 19(3): e0299598. https://doi.org/10.1371/journal.pone.0299598_
 
-_Rossini et al. (2024) - Under review, coming (hopefully!) soon_
+_Rossini L, Lots A, Noël G, Segers A, Mermer S, Contarini M, Speranza S, Walton V, Francis F, Garone E (2025). Life tables data collection in entomology: an overview on the differential and the integral representation and proposal for a standard electronic file. Insect Science (in press)
+https://doi.org/10.1111/1744-7917.70040_
 
 
 # How to use/compile the Excel file
