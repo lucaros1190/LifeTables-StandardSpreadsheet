@@ -1,6 +1,8 @@
 # LifeTables-StandardSpreadsheet
 
-Last update: 29 July 2025
+Last update: 21 May 2026
+
+Hey! We have reached the version 6! Many thanks for your suggestions!
 
 The purpose behind this work is to help the community of entomologists and all the insiders involved in rearing insects under different constant conditions in a laboratory environment. The lack of a standard in data collection and sharing led us to create this file, with the hope to support the open data practices in entomology.
 
@@ -30,7 +32,7 @@ https://doi.org/10.1111/1744-7917.70040_
 - _Differential-Rep_: In this tab you can find the second summary of your data, namely the population dynamics (or differential) representation. This representation indicates the number of individuals that at each time step develop to a further stage (or die within the stage), and it is commonly utilised to calculate the stage-durations (as in _LifeTablesStatistics_), or to compute the development and mortality rates (above all in the modelling works). The logic behind the tab is the same of _Individual-LifeHistory_: each table summarizes a given rearing condition dataset, mortalities are from line 388, and adult survival is part of the mortality table, as it conceptually indicates the number of adults that die over time.
 - _Integral-Rep_: We are at the end of the file. In this tab you can find the third summary of your data, namely the cohort (or integral) representation. This representation is the same described by Chi et al. (1985, 1988), with the only difference that mortality is expressed in cumulative form as well (to be coherent!). The tables report, for each experimental condition, the number of individuals that over time are into the different life stages, this is the reason why this time the adults are present in both development and mortality table. Here we have a conceptual distinction, as the number of adults in the development table represents the number of alive adults over time. In the mortality table, instead, the values indicate the total number of adults (similarly to the other stages) died since the beginning of the experiment.
 
-For your convenience, the folder "Examples" contains some examples of dataset acquired using the Excel file. We will be very pleased if you want to provide your dataset as an example, also to support us to spread the news and to involve always more scientists to standardise the data collection of life tables experiments!
+For your convenience, the folder "Examples" contains some examples of dataset acquired using the Excel file (there might be previous versions of the file!). We will be very pleased if you want to provide your dataset as an example, also to support us to spread the news and to involve always more scientists to standardise the data collection of life tables experiments!
 
-Please refer to the cited literature for any further explanation, and if you have any questions/doubts/requests you can write to luca.rossini@ulb.be or luca.rossini@unitus.it.  
+Please refer to the cited literature for any further explanation, and if you have any questions/doubts/requests you can write to l.rossini@reading.ac.uk.  
 
